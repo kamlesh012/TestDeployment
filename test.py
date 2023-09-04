@@ -54,8 +54,9 @@ def preprocess_inp(data):
     
     return data
 
-# model = pickle.load(open("I:\\sohail\\model\\model.pkl",'rb'))
-model = pickle.load(open("model\\model.pkl",'rb'))
+
+# model = pickle.load(open("model\\model.pkl",'rb'))
+model = pickle.load(open("model.pkl",'rb'))
 
 st.title('Predict The Price of Vegetable')
 
