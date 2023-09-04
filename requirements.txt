@@ -1,5 +1,5 @@
 streamlit
 pandas
-numpy
+numpy==1.23.4
 tensorflow
 streamlit_option_menu
