@@ -1,4 +1,5 @@
 pandas
-numpy
+numpy=1.24.3
 tensorflow
 scikit-learn
+streamlit_option_menu
