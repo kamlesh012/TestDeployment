@@ -2,5 +2,6 @@ streamlit
 pandas
 numpy==1.19.5
 tensorflow
-protobuf==3.20.*
+protobuf==3.9.2
+grpcio==1.24.3
 streamlit_option_menu
